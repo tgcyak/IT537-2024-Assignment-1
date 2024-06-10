@@ -3,8 +3,8 @@
 
 You are responsible for creating github repo landing page as much as possible. You can find the demo below made by me.
 
-- You must use at line 2 flexboxes.
-- You must use at line 1 grid.
+- You must use at least 2 flexboxes.
+- You must use at least 1 grid.
 - Responsive design is not necessary. Design can be made according to the laptop screen.
 - Pure css is compulsary. Tailwind is not accepted.
 - You can find the icons in https://lucide.dev/
