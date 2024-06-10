@@ -13,7 +13,7 @@ You are responsible for creating github repo landing page as much as possible. Y
 - You are free to use inline styling, style tag or external css file.
 - Due date is 28.06.2024, 11.59 pm.
 - I will share my solution after the due date.
-- Your branch name must be following format IT537_<YOUR_SCHOOL_ID>
+- Your branch name must be following format IT537_<YOUR_SCHOOL_ID> eg. IT537_27404
 
 
 ## Demo
