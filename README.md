@@ -1,1 +1,20 @@
-# it537-2024-assignment-1
+
+# Project Title
+
+You are responsible for creating github repo landing page as much as possible. You can find the demo below made by me.
+
+- You must use at line 2 flexboxes.
+- You must use at line 1 grid.
+- Responsive design is not necessary. Design can be made according to the laptop screen.
+- Pure css is compulsary. Tailwind is not accepted.
+- You can find the icons in https://lucide.dev/
+- You can use any color palette you want.
+- GitHub icon can be found in google.
+- You are free to use inline styling, style tag or external css file.
+- Due date is 28.06.2024, 11.59 pm.
+- I will share my solution after the due date.
+
+
+## Demo
+
+https://youtu.be/Ma7kSK1308M
