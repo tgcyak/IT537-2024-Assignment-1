@@ -1,5 +1,5 @@
 
-# Project Title
+# IT537 - Assignment 1
 
 You are responsible for creating github repo landing page as much as possible. You can find the demo below made by me.
 
